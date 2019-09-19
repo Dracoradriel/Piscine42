@@ -1,0 +1,6 @@
+Credentials cache: API:4FCEC391-322B-4ABA-8FAE-47095A73D64C
+        Principal: qandrean@42.FR
+
+  Issued                Expires               Principal
+Aug 26 11:23:19 2019  Sep  2 11:23:03 2019  krbtgt/42.FR@42.FR
+Aug 26 13:15:01 2019  Sep  2 11:23:03 2019  host/vgs-fn1.42.fr@42.FR
